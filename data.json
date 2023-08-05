@@ -1,0 +1,62 @@
+{
+    "arabica": [
+        {
+            "foto": "images/produk/product_capuchino.jpg",
+            "nama": "Cappuccino Arabica",
+            "size": "500 Gram",
+            "harga": "200.000"
+        },
+        {
+            "foto": "images/produk/product_espresso.jpg",
+            "nama": "Pahit Arabica",
+            "size": "100 Gram",
+            "harga": "100.000"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Arabica",
+            "size": "150 Gram",
+            "harga": "150.000"
+        }
+    ],
+    "robusta": [
+        {
+            "foto": "images/produk/product_kopi_susu.jpg",
+            "nama": "Kopsus Robusta",
+            "size": "100 Gram",
+            "harga": "500.000"
+        },
+        {
+            "foto": "images/produk/product_latte.jpg",
+            "nama": "Latte Robusta",
+            "size": "150 Gram",
+            "harga": "150.000"
+        }
+    ],
+    "nonkopi": [
+        {
+            "foto": "https://masfikr.com/fikrithoni/wp-content/uploads/2015/08/cendol.jpg",
+            "nama": "Es Cendol",
+            "size": "100 Gram",
+            "harga": "500.000"
+        },
+        {
+            "foto": "https://cdn.yummy.co.id/content-images/images/20200521/0hVDZ66FMWiT9URRDhDZN8KKbk0sh3qA-31353930303031383335d41d8cd98f00b204e9800998ecf8427e.jpg?x-oss-process=image/resize,w_388,h_388,m_fixed,x-oss-process=image/format,webp",
+            "nama": "Es Campur",
+            "size": "150 Gram",
+            "harga": "150.000"
+        },
+        {
+            "foto": "https://th.bing.com/th/id/OIP.389rKw-SgSgwVESJLXNOmAHaE8?pid=ImgDet&rs=1",
+            "nama": "Es Cream",
+            "size": "150 Gram",
+            "harga": "150.000"
+        },
+        {
+            "foto": "https://cdn.timesmedia.co.id/images/2018/10/13/es-doger.jpg",
+            "nama": "Es Dogger",
+            "size": "150 Gram",
+            "harga": "150.000"
+        }
+    ]
+}
